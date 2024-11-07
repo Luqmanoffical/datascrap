@@ -1,0 +1,128 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="october-mobile" class="svg-hero-sm injected-svg" width="860" height="1078" viewBox="0 0 860 1078" fill="none" data-src="//images.ctfassets.net/9uo1qvvet3xa/4FMqD31X9vYTLagAz07xIK/ff92ae94d44a65a5ec8d260ba665d1ae/24Q4_ColorFlow1_Site_HomepageHero_Mobile_860x1078_US_SVG.svg" xmlns:xlink="http://www.w3.org/1999/xlink" role="img" aria-hidden="true" focusable="false">
+  <style>
+    svg.svg-hero-sm g {
+      display: none;
+    }
+
+    html[lang="en-US"] svg g[lang="en"],
+    html[lang="en"] svg g[lang="en"] {
+      display: block;
+    }
+
+    html[lang="en-EU"] svg g[lang="eu"] {
+      display: block;
+    }
+
+    html[lang="en-GB"] svg g[lang="gb"] {
+      display: block;
+    }
+
+    html[lang^="nl"] svg g[lang="nl"],
+    html[lang^="de"] svg g[lang="de"],
+    html[lang^="fr"] svg g[lang="fr"],
+    html[lang^="it"] svg g[lang="it"] {
+      display: block;
+    }
+
+    /* Fallback for any language not explicitly handled */
+    html[lang]:not([lang^="en"]):not([lang^="nl"]):not([lang^="de"]):not([lang^="fr"]):not([lang^="it"]) svg g[lang="en"] {
+      display: block;
+    }
+
+    .svg-hero-sm .svg-hero-heading {
+      fill: white;
+      stroke-width: .9px;
+      stroke: white;
+      text-align: center;
+      font-family: Geograph;
+      font-size: 60px;
+      font-style: normal;
+      font-weight: 500;
+      letter-spacing: 7px;
+      text-anchor: middle;
+      text-transform: uppercase;
+    }
+
+    .svg-hero-sm .svg-hero-body {
+      fill: white;
+      text-align: center;
+      font-family: Geograph;
+      font-size: 29px;
+      font-style: normal;
+      font-weight: 400;
+      letter-spacing: 2.9px;
+      text-anchor: middle;
+      text-transform: uppercase;
+    }
+  </style>
+
+  <g lang="en">
+    <text class="svg-hero-heading" x="430" y="124.62">Elevated</text>
+    <text class="svg-hero-heading" x="430" y="205.42">Earth Tones</text>
+
+    <text class="svg-hero-body" x="430" y="316.496">New neutral shades so subtle</text>
+    <text class="svg-hero-body" x="430" y="357.496">They can’t help but stand out.</text>
+
+    <path d="M382 250L477.688 250" stroke="white" stroke-opacity="0.5" stroke-width="2.04214" stroke-linecap="round"/>
+  </g>
+
+  <g lang="eu">
+    <text class="svg-hero-heading" x="430" y="124.62">Elevated</text>
+    <text class="svg-hero-heading" x="430" y="205.42">Earth Tones</text>
+
+    <text class="svg-hero-body" x="430" y="316.496">New neutral shades so subtle</text>
+    <text class="svg-hero-body" x="430" y="357.496">They can’t help but stand out.</text>
+
+    <path d="M382 250L477.688 250" stroke="white" stroke-opacity="0.5" stroke-width="2.04214" stroke-linecap="round"/>
+  </g>
+
+  <g lang="gb">
+    <text class="svg-hero-heading" x="430" y="124.62">Elevated</text>
+    <text class="svg-hero-heading" x="430" y="205.42">Earth Tones</text>
+
+    <text class="svg-hero-body" x="430" y="316.496">New neutral shades so subtle</text>
+    <text class="svg-hero-body" x="430" y="357.496">They can’t help but stand out.</text>
+
+    <path d="M382 250L477.688 250" stroke="white" stroke-opacity="0.5" stroke-width="2.04214" stroke-linecap="round"/>
+  </g>
+
+  <g lang="nl">
+    <text class="svg-hero-heading" x="430" y="124.62">Nieuwe</text>
+    <text class="svg-hero-heading" x="430" y="205.42">aardse tinten</text>
+
+    <text class="svg-hero-body" x="430" y="316.496">Neutrale kleuren die zo subtiel zijn</text>
+    <text class="svg-hero-body" x="430" y="357.496">dat ze opvallen.</text>
+
+    <path d="M382 250L477.688 250" stroke="white" stroke-opacity="0.5" stroke-width="2.04214" stroke-linecap="round"/>
+  </g>
+
+  <g lang="fr">
+    <text class="svg-hero-heading" x="430" y="124.62">Tons terreux</text>
+    <text class="svg-hero-heading" x="430" y="205.42">accentués</text>
+
+    <text class="svg-hero-body" x="430" y="316.496">Des teintes neutres si subtiles</text>
+    <text class="svg-hero-body" x="430" y="357.496">qu'elles se font remarquer.</text>
+
+    <path d="M382 250L477.688 250" stroke="white" stroke-opacity="0.5" stroke-width="2.04214" stroke-linecap="round"/>
+  </g>
+
+  <g lang="de">
+    <text class="svg-hero-heading" x="430" y="124.62">Edle</text>
+    <text class="svg-hero-heading" x="430" y="205.42">Erdtöne</text>
+
+    <text class="svg-hero-body" x="430" y="316.496">Neue neutrale Farben, die durch</text>
+    <text class="svg-hero-body" x="430" y="357.496">ihre Zurückhaltung hervorstechen.</text>
+
+    <path d="M382 250L477.688 250" stroke="white" stroke-opacity="0.5" stroke-width="2.04214" stroke-linecap="round"/>
+  </g>
+
+  <g lang="it">
+    <text class="svg-hero-heading" x="430" y="124.62">Nuove tonalità</text>
+    <text class="svg-hero-heading" x="430" y="205.42">della terra</text>
+
+    <text class="svg-hero-body" x="430" y="316.496">Toni neutri così delicati</text>
+    <text class="svg-hero-body" x="430" y="357.496">che non passano di certo inosservati.</text>
+
+    <path d="M382 250L477.688 250" stroke="white" stroke-opacity="0.5" stroke-width="2.04214" stroke-linecap="round"/>
+  </g>
+</svg>

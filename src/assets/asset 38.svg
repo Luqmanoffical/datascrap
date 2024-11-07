@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2880" height="1245" viewBox="0 0 2880 1245" fill="none" class="injected-svg" data-src="//images.ctfassets.net/9uo1qvvet3xa/mMtrihcYgjhV9q0IdRSGV/4f6cc32d24e8927b0fc4093e0202e2c8/24Q4_ColorFlow1_Site_HomepageHero_Desktop_880x1245_US_SVG.svg" xmlns:xlink="http://www.w3.org/1999/xlink" role="img" aria-hidden="true" focusable="false">
+<text fill="white" xml:space="preserve" style="white-space: pre" font-family="Geograph" font-size="92" font-weight="500" letter-spacing="7px"><tspan x="2297.93" y="176.604">ELEVATED </tspan><tspan x="2093.83" y="292.604">EARTH TONES</tspan></text>
+<path d="M2646.9 353L2799.38 353" stroke="white" stroke-width="3.25431" stroke-linecap="round"/>
+<g filter="url(#filter0_d_2402_26314-20)">
+<text fill="white" xml:space="preserve" style="white-space: pre" font-family="Geograph" font-size="30" letter-spacing="0.1em"><tspan x="2220.92" y="426.671">NEW NEUTRAL SHADES SO SUBTLE </tspan><tspan x="2218.18" y="468.671">THEY CAN’T HELP BUT STAND OUT</tspan></text>
+</g>
+<defs>
+<filter id="filter0_d_2402_26314-20" x="2194.78" y="380.32" width="627.997" height="113.43" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset/>
+<feGaussianBlur stdDeviation="12"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.558431 0 0 0 0 0.412388 0 0 0 0 0.254175 0 0 0 0.4 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_2402_26314"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_2402_26314" result="shape"/>
+</filter>
+</defs>
+</svg>
