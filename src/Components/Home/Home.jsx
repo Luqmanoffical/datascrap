@@ -5,6 +5,7 @@ import coton from "../../assets/coton.avif"
 import Product from "./Products"
 import card1 from "../../assets/flowersho.avif"
 import card2 from "../../assets/cardsh.avif"
+import {Reviews} from "./Reviews"
 function Home() {
   return (
     <div>
@@ -69,6 +70,11 @@ function Home() {
 </div>
 
       </div>
+   <div>
+      <h2 className='text-center pt-6 pb-3 text-2xl font-bold   text-[#c79d43] '>Reviews</h2>
+      <Reviews/>
+   </div>
+   
     </div>
   )
 }
