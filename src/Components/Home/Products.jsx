@@ -110,7 +110,10 @@ const Products = () => {
     <>
     <div className='px-8'>
 
-      <h1 className='text-center text-[#c79d43] text-4xl font-bold pt-9 pb-5'>Collections</h1>
+      <h1 className='text-center text-[#c79d43] text-4xl font-bold pt-9 pb-5'  style={{
+        
+        fontFamily: " Faculty Glyphic, Mona Sans, Roboto, sans-serif" 
+       }}>Collections</h1>
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6 p-4">
         {demoProducts.map((product) => (
           <div key={product.id} className="bg-white rounded-lg shadow-lg overflow-hidden transition-transform transform hover:scale-105 flex flex-col">
@@ -134,7 +137,7 @@ const Products = () => {
   className="min-h-screen w-1/2 bg-cover bg-center relative overflow-hidden transition-transform duration-500 ease-in-out"
   style={{
     backgroundImage: `url(${newstyle})`,
-    fontFamily: "Mona Sans, Roboto, sans-serif",
+    fontFamily: " Faculty Glyphic , Mona Sans, Roboto, sans-serif",
   }}
 >
 <div className="absolute inset-0 bg-cover bg-center transition-transform duration-500 ease-in-out hover:scale-110" style={{ backgroundImage: `url(${newstyle})` }}>

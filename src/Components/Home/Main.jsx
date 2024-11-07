@@ -5,7 +5,10 @@ import main3 from "../../assets/main3.webm";
 
 function Main() {
   return (
-    <div className="flex gap-3 p-5">
+    <div className="flex gap-3 p-5"     style={{
+        
+        fontFamily: " Faculty Glyphic, Mona Sans, Roboto, sans-serif" 
+       }}>
       <div className="w-1/3 relative group">
         <div
           className="h-full bg-cover bg-center"

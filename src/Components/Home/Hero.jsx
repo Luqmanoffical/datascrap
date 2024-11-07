@@ -20,7 +20,7 @@ function Hero() {
         className="relative bg-cover bg-center h-screen transition-all duration-1000"
         style={{
           backgroundImage: `url(${images[currentImage]})`,
-          fontFamily: "  Mona Sans, Roboto, sans-serif" 
+          fontFamily: " fontFamily:, Mona Sans, Roboto, sans-serif" 
          }}
       >
         {/* Overlay */}

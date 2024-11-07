@@ -19,7 +19,7 @@ function Home() {
       
       <div 
   className="text-white flex items-center justify-center flex-col min-h-[20rem] bg-cover bg-center mt-8 p-16  "
-  style={{ backgroundImage: `url(${coton})`, fontFamily: "Mona Sans, Roboto, sans-serif" }}
+  style={{ backgroundImage: `url(${coton})`, fontFamily: "Faculty Glyphic, Mona Sans, Roboto, sans-serif" }}
 >
   <h1 className="text-3xl font-semibold tracking-wider mb-4 leading-tight">
     We Make Better Things In A Better Way
@@ -41,12 +41,14 @@ function Home() {
   className="min-h-screen w-1/2 bg-cover bg-center relative overflow-hidden transition-transform duration-500 ease-in-out"
   style={{
     backgroundImage: `url(${card1})`,
-    fontFamily: "Mona Sans, Roboto, sans-serif",
+    fontFamily: "Faculty Glyphic, Mona Sans, Roboto, sans-serif",
   }}
 >
 <div className="absolute inset-0 bg-cover bg-center transition-transform duration-500 ease-in-out hover:scale-110" style={{ backgroundImage: `url(${card1})` }}>
   <div className="absolute inset-0 flex flex-col  items-center m-10 text-white px-4">
-    <h3 className="text-2xl font-semibold">Gifts Under $100</h3>
+    <h3 className="text-2xl font-semibold">Gifts Under $ <span  style={{
+    fontFamily: " Roboto, sans-serif",
+  }}>100</span></h3>
     <p className=" text-sm">Cozy Gifts At Comfy Prices</p>
 
   </div>
@@ -57,7 +59,7 @@ function Home() {
   className="min-h-screen w-1/2 bg-cover bg-center relative overflow-hidden transition-transform duration-500 ease-in-out"
   style={{
     backgroundImage: `url(${card2})`,
-    fontFamily: "Mona Sans, Roboto, sans-serif",
+    fontFamily: "Faculty Glyphic, Mona Sans, Roboto, sans-serif",
   }}
 >
 <div className="absolute inset-0 bg-cover bg-center transition-transform duration-500 ease-in-out hover:scale-110" style={{ backgroundImage: `url(${card2})` }}>
@@ -71,7 +73,10 @@ function Home() {
 
       </div>
    <div>
-      <h2 className='text-center pt-6 pb-3 text-2xl font-bold   text-[#c79d43] '>Reviews</h2>
+      <h2 className='text-center pt-6 pb-3 text-2xl font-bold   text-[#c79d43] '  style={{
+ 
+    fontFamily: "Faculty Glyphic, Mona Sans, Roboto, sans-serif",
+  }}>Reviews</h2>
       <Reviews/>
    </div>
    
